@@ -26,6 +26,7 @@
             <file type="data_model_create" db_type="oracle" path="sql/oracle/ref-us-counties-create.sql"/>
             <file type="data_model_drop" db_type="oracle" path="sql/oracle/ref-us-counties-drop.sql"/>
             <file type="data_model_create" db_type="postgresql" path="sql/postgresql/ref-us-counties-create.sql"/>
+            <file type="data_model_drop" db_type="postgresql" path="sql/postgresql/ref-us-counties-drop.sql"/>
         </files>
         <parameters>
         <!-- No version parameters -->
