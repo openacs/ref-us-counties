@@ -85,7 +85,3 @@ select acs_reference__new (
     'http://ftp.census.gov/geo/www/gazetteer/places.html',
     now()
 );
-
-begin;
-\i ../common/ref-us-counties-data.sql
-end;

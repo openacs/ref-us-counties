@@ -94,7 +94,3 @@ begin
 commit;
 end;
 /
-
-set feedback off
-@ '../common/ref-us-counties-data.sql'
-
