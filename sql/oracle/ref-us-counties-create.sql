@@ -44,7 +44,7 @@ County FIPS code.
 ';
 
 comment on column us_counties.name is '
-Name. Includes name of county. Counties don't nave a type, but do have
+Name. Includes name of county. Counties don''t have a type, but do have
 the word "County" as part of the name.
 ';
 
